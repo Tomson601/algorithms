@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 0,
+    "name": "test",
+    "surname": "user",
+    "is_active": true
+  },
+  {
+    "ID": 4,
+    "name": "mega",
+    "surname": "user",
+    "is_active": true
+  },
+  {
+    "ID": 5,
+    "name": "Radek",
+    "surname": "Kotarski",
+    "is_active": true
+  }
+]
