@@ -1,5 +1,5 @@
-input_file_path = "../data/odp/odp_4a.txt"
-output_file_path = "../data/odp/odp_4b.txt"
+input_file_path = "../../data/odp/odp_4a.txt"
+output_file_path = "../../data/odp/odp_4b.txt"
 
 with open(input_file_path) as infile:
     data = infile.readlines()

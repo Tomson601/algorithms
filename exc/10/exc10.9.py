@@ -1,6 +1,6 @@
-input_file_path = "../data/Dane_PR/anagram.txt"
-output_file_path = "../data/odp/odp_4a.txt"
-output_file_path2 = "../data/odp/odp_4b.txt"
+input_file_path = "../../data/Dane_PR/anagram.txt"
+output_file_path = "../../data/odp/odp_4a.txt"
+output_file_path2 = "../../data/odp/odp_4b.txt"
 
 def selectionSort(data):
     data_table = []

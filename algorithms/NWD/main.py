@@ -6,6 +6,7 @@ def NWD(a, b):
         r = a % b
         a = b
         b = r
+        print(r, a, b)
     return a
 
 wynik = NWD(a, b)
