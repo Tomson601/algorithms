@@ -1,0 +1,16 @@
+a)
+Najmniejsza: 
+S
+500,18
+
+Największa:
+X
+1500
+
+b)
+Rodzaj działki	Liczba działek	Suma powierzchni	Średnia powierzchnia
+R		708		700905,65		989,98
+B		1775		1774274,43		999,59
+S		964		950622,48		986,12
+L		559		568360,56		1016,75
+X		994		983998,77		989,94

@@ -1,0 +1,15 @@
+4.1)
+Kwartał i Rok	Dama	Granta	Dorkas	Lodera	Suma
+IV kw. 2011	317	300	467	398	1482
+
+4.2)
+Kwartał i Rok	Marka	Liczba
+II kw. 2014	Lodera	 305
+
+4.3)
+Dama	Granta	Dorkas	Lodera
+18	9	31	32
+
+4.4)
+Liczba pojazdów wyprodukowanych do 2010 r.
+32406
