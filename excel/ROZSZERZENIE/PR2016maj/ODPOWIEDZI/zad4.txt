@@ -1,0 +1,22 @@
+4.1)
+Współrzędne należące do brzegu okręgu:	
+X	Y
+256	8
+200	400
+
+Ilość współrzędnych należących do wnętrza okręgu:
+7852
+
+4.2)
+Dla 1000
+pi	3,228
+
+Dla 5000
+pi	3,1656
+
+Dla 10'000
+pi	3,1416
+
+4.3)
+E1000	0,0864
+E1700	0,0184
