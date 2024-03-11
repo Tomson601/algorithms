@@ -1,0 +1,18 @@
+5.2)
+Liczba w kraju	19
+
+Region 	Liczba
+A	3
+B	4
+C	8
+D	4
+
+5.3)
+Suma w 2025
+125942598
+
+Najwiecej mieszkancow
+w12C
+
+Wojewodztwa z przeludnieniami
+18
